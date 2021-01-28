@@ -1,2 +1,0 @@
-crossover: probati crossover sa vise tacka prekida i ravnomerni crossover (za svaki gen sa vrv p se vrsi ukrstanje)
-turnirska mozda ne izabere najbolju pa zato dobijamo losiju generaciju nego najbolja
